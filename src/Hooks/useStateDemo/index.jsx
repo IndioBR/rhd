@@ -93,10 +93,10 @@ const UseStateDemo = () => {
       </div>
       <div className='testing-code'>
         <p>
-          O estado inicial é: <br /> <strong>{initial}</strong>
+          The inital state is: <br /> <strong>{initial}</strong>
         </p>
         <p>
-          O estado atual é: <br /> <strong>{change}</strong>
+          The current state is: <br /> <strong>{change}</strong>
         </p>
       </div>
       <div className='hook-footer'>
