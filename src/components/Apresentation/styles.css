@@ -1,0 +1,35 @@
+.Apresentation {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background: rgba(32, 35, 42, 0.8);
+  color: rgba(255, 255, 255, 0.5);
+
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.apr-title {
+  font-size: 70px;
+  color: rgba(97, 218, 251, 1);
+}
+
+.apr-body {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+.apr-last-P {
+  background-color: rgba(97, 218, 251, 1);
+  color: rgba(32, 35, 42, 1);
+  padding: 25px 30px;
+  margin-top: 30px;
+}
