@@ -13,14 +13,12 @@
 
 .header-logo {
   color: rgba(97, 218, 251, 1);
+  display: flex;
+  align-items: center;
 }
 
 .header-logo img {
   width: 28px;
-}
-
-.header-logo:hover {
-  text-transform: var();
 }
 
 .navbar-header {

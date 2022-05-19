@@ -1,6 +1,7 @@
 import './styles.css';
 import Header from '../../components/Header';
 import Main from '../../components/Main';
+import Footer from '../../components/Footer';
 
 function Home() {
 
@@ -8,6 +9,7 @@ function Home() {
     <div className="Home">
       <Header />
       <Main />
+      <Footer />
     </div>
   );
 }

@@ -15,6 +15,8 @@ const UseEffectDemo = () => {
         <a
           href='https://reactjs.org/docs/hooks-reference.html#useeffect'
           className='hook-link'
+          target='_blank'
+          rel='noreferrer'
         >
           useEffect
         </a>
@@ -24,6 +26,8 @@ const UseEffectDemo = () => {
           <a
             href='https://reactjs.org/docs/hooks-reference.html#useeffect'
             className='hook-link'
+            target='_blank'
+            rel='noreferrer'
           >
             useEffect
           </a> works like 'Lifecycle Methods'. It'll add, reload or delete information on the page, according how you use.

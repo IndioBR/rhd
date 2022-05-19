@@ -39,6 +39,8 @@ const UseStateDemo = () => {
         <a
           href='https://reactjs.org/docs/hooks-reference.html#usestate'
           className='hook-link'
+          target='_blank'
+          rel='noreferrer'
         >
           useState
         </a>
@@ -48,9 +50,11 @@ const UseStateDemo = () => {
           <a
             href='https://reactjs.org/docs/hooks-reference.html#usestate'
             className='hook-link'
+            target='_blank'
+            rel='noreferrer'
           >
             useState
-          </a> is a state controller, that helps with changes in the page and make the aplication less static.
+          </a> is a state controller, that helps with changes in the page and make the application less static.
         </p>
       </div>
       <div className="hook-syntax">
