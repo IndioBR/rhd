@@ -8,10 +8,10 @@ export default class Apresentation extends Component {
         <h2 className='apr-title'>React Hooks Demonstration</h2>
         <div className='apr-body'>
           <p>
-            Hello, World! Welcome to my site.
+            Hello, Me! Welcome!
           </p>
           <p>
-            Here you'll find a resume of all React Hooks (I hope), how and where to use them.
+            This is a resume of all React Hooks.
           </p>
           <p className='apr-last-P'>
             Please enjoy!
