@@ -111,7 +111,8 @@ const UseStateDemo = () => {
           You can set the state as much as you want during the code. It's just call the Setter, passing the value you want and <i>voilá</i>.
         </p>
         <p>
-          You can see the documentation <a className='hook-link' href='https://reactjs.org/docs/hooks-reference.html#usestate'>here</a>
+          You can see the documentation <a className='hook-link' href='https://reactjs.org/docs/hooks-reference.html#usestate' target='_blank'
+            rel='noreferrer'>here</a>
         </p>
       </div>
     </div>

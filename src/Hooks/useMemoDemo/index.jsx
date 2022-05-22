@@ -27,7 +27,7 @@ function UseMemoDemo() {
       </div>
       <div className="hook-syntax">
         <span>import {'{ useMemo }'} from 'react'</span>
-        <span>const something = useMemo(() => {'{ }'}, [ ])</span>
+        <span>const something = useMemo(() => <i>fn</i>, [ ])</span>
       </div>
       <div className="hook-tips">
         <p>Did you notice that useMemo hook have the exact syntax that useCallback?</p>
@@ -38,7 +38,14 @@ function UseMemoDemo() {
       <div className='hook-footer'>
         <p>Since this hook is more about "What gets done when ...", you can't test something like that here. Therefore, I recommend that you read the documentation in case something is missing.</p>
         <p>
-          You can see the documentation <a className='hook-link' href='https://reactjs.org/docs/hooks-reference.html#usememo'>here</a>
+          You can see the documentation <a
+            className='hook-link'
+            href='https://reactjs.org/docs/hooks-reference.html#usememo'
+            target='_blank'
+            rel='noreferrer'
+          >
+            here
+          </a>
         </p>
       </div>
     </div>

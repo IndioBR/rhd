@@ -42,7 +42,8 @@ function UseCallbackDemo() {
       <div className='hook-footer'>
         <p>Since this hook is more about "What gets done when ...", you can't test something like that here. Therefore, I recommend that you read the documentation in case something is missing.</p>
         <p>
-          You can see the documentation <a className='hook-link' href='https://reactjs.org/docs/hooks-reference.html#usecallback'>here</a>
+          You can see the documentation <a className='hook-link' href='https://reactjs.org/docs/hooks-reference.html#usecallback' target='_blank'
+            rel='noreferrer'>here</a>
         </p>
       </div>
     </div>

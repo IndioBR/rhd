@@ -5,6 +5,7 @@ import UseStateDemo from '../../Hooks/useStateDemo';
 import Apresentation from '../Apresentation';
 import UseCallbackDemo from '../../Hooks/useCallbackDemo';
 import UseMemoDemo from '../../Hooks/useMemoDemo';
+import UseRefDemo from '../../Hooks/useRefDemo';
 
 export default class Main extends Component {
   render() {
@@ -15,6 +16,7 @@ export default class Main extends Component {
         <UseEffectDemo />
         <UseCallbackDemo />
         <UseMemoDemo />
+        <UseRefDemo />
       </main>
     )
   }
